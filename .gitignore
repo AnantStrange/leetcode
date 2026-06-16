@@ -1,0 +1,5 @@
+*.out
+del.cpp
+test*.cpp
+*_del.cpp
+
